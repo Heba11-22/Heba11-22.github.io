@@ -87,6 +87,10 @@ ol, ul {
 	width: 40%;
 }
 
+.thumb2{
+	height: 15vw;
+}
+
 blockquote, q {
 	quotes: none;
 }
