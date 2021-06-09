@@ -2186,6 +2186,7 @@ input, select, textarea {
 
 			.image.fit img {
 				width: 100%;
+				height: 15vw;
 			}
 
 		.image.avatar {
